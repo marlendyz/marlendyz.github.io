@@ -1,0 +1,42 @@
+body {
+  background-color: black;
+}
+
+.letrasayuda {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 1em;
+  font-weight: bold;
+  color: white;
+}
+
+.como {
+  width: 8em;
+  height: 1em;
+  color: white;
+  font-size: 28px;
+  margin: 3em;
+}
+
+.reglas{
+    width: 15;
+    height: 15em;
+}
+.reglas p {
+display: flex;
+  text-align:center;
+  display: flex;
+  color: white;
+  justify-content: center;
+ 
+}
+
+.autor {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  color: white;
+
+}

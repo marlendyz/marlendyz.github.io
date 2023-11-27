@@ -1,0 +1,71 @@
+body {
+  background-color: black;
+  
+}
+
+
+.int-name {
+display: flex;
+justify-content: center;
+  align-items: center;
+flex-direction: column;
+padding: 1em;
+
+}
+
+.nombrejugador{
+  text-align: center;
+  color: white;
+  justify-content:center;
+  margin-top: 5em;
+  
+}
+input{
+    width: 12em;;
+    border: px solid #3b0d0d;
+    border-radius: 54x;
+    margin-top: 6px;
+     margin-bottom: 16px; 
+}
+
+.botones-nivel{
+  display: flex;
+  padding: 7em;
+ justify-content: center;
+ align-items: center;
+}
+
+.boton-nivel1 {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 5em;
+  width: 8em;
+  border-radius: 9px;
+  border-color: white;
+
+
+}
+
+.boton-nivel2 {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 5em;
+  width: 8em;
+  border-radius: 9px;
+  border-color: white;
+
+
+}
+
+.boton-nivel3 {
+  background-color: black;
+  text-align: center;
+  color: white;
+  height: 5em;
+  width: 8em;
+  border-radius: 9px;
+  border-color: white;
+
+}

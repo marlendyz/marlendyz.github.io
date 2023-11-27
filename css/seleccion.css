@@ -1,0 +1,140 @@
+body{
+    background-color: black;
+}
+.principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2em;
+ 
+     
+}
+    
+.completar-con-colores{
+    display: inline-block;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    
+}
+
+.colores{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    
+}
+
+.colores1{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: aqua;
+}
+.colores2{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: blue;
+}
+.colores3{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: hotpink;
+}
+.colores4{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: brown;
+}
+.colores5{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: greenyellow;
+}
+.colores6{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: indianred;
+}
+.colores7{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: yellow;
+}
+.colores8{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: cornflowerblue;
+}
+.colores9{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: coral;
+}
+.colores10{
+    display: inline-block;
+    margin: 0,1em;
+    width: 4em;
+    height: 4em;
+    border-radius: 50%;
+    border: 3px solid white;
+    background-color: blueviolet;
+}
+
+
+.seleccion{
+    
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 5em;
+    width: 9em;
+    border-radius: 9px;
+    border-color: white;
+}
+
+.nombre-jugador{
+    font-size: 25px;
+    font-weight: bold;
+    color:white;
+}

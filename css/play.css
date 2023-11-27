@@ -1,0 +1,157 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+}
+
+.contenedorprincipal{
+ display:flex;
+ justify-content: center;
+ flex-direction: column;
+ margin-top: 2em;
+
+
+}
+.img{
+  display: flex;
+  justify-content: center;
+}
+
+.contenedor-intentos {
+
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.intentos1 {
+  width: 2em;
+  height: 2em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.intentos2 {
+  width: 2em;
+  height: 2em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.intentos3 {
+  width: 2em;
+  height: 2em;
+  border-radius: 10;
+  border: 3px solid white;
+}
+.intentos4 {
+  width: 2em;
+  height: 2em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+
+.completar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+}
+
+.rellena1 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.rellena2 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+
+.rellena3 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.rellena4 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+
+.colores {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6em;
+}
+
+.colores1 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.colores2 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.colores3 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+.colores4 {
+  display: inline-block;
+  margin: 0, 1em;
+  width: 40em;
+  width: 4em;
+  height: 4em;
+  border-radius: 10%;
+  border: 3px solid white;
+}
+
+.validar{
+  display: flex;
+  color: white;
+  width: 6em;
+  height: 6em;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+ border-radius: 10%;
+  border: 3px solid white;
+  background-color: black;
+}
